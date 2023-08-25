@@ -1,0 +1,1 @@
+Hawkeye is a neural network modeled with TensorFlow and Pytorch and utilizing both the EBird API and Caltech's CUB labeled bird database. Its primary purpose is visual bird recognition based on photographic data but to facilitate search accuracy by cross-indexing extra data input parameters.
